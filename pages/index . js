@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <div style={{ padding: '40px', fontFamily: 'sans-serif', textAlign: 'center' }}>
+      <h1>AC Creations – Smart AI Payroll Chatbot</h1>
+      <p>Your chatbot is now live and ready to answer queries!</p>
+    </div>
+  );
+}
